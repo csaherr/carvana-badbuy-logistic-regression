@@ -35,3 +35,11 @@ Key predictors used in the final model:
 
 ## Notes
 This is an academic project. Focus is on interpretable modeling, feature engineering, and evaluation tradeoffs in an imbalanced classification setting.
+
+## Visuals
+
+### ROC Curve
+![ROC Curve](assets/roc_curve.png)
+
+### Confusion Matrix (Threshold = 0.25)
+![Confusion Matrix](assets/confusion_matrix_thr025.png)
